@@ -1,0 +1,11 @@
+C:\Users\marvi\source\repos\App.Core\obj\Debug\App.Core.csprojAssemblyReference.cache
+C:\Users\marvi\source\repos\App.Core\bin\Debug\App.Core.dll.config
+C:\Users\marvi\source\repos\App.Core\bin\Debug\App.Core.dll
+C:\Users\marvi\source\repos\App.Core\bin\Debug\App.Core.pdb
+C:\Users\marvi\source\repos\App.Core\bin\Debug\App.Infrastructure.dll
+C:\Users\marvi\source\repos\App.Core\bin\Debug\Dapper.dll
+C:\Users\marvi\source\repos\App.Core\bin\Debug\App.Infrastructure.pdb
+C:\Users\marvi\source\repos\App.Core\bin\Debug\Dapper.xml
+C:\Users\marvi\source\repos\App.Core\obj\Debug\App.Core.csproj.CopyComplete
+C:\Users\marvi\source\repos\App.Core\obj\Debug\App.Core.dll
+C:\Users\marvi\source\repos\App.Core\obj\Debug\App.Core.pdb

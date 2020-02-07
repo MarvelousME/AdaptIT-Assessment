@@ -1,0 +1,8 @@
+C:\Users\marvi\Desktop\Assessment\AdaptIT\App.Infrastructure\bin\Release\App.Infrastructure.dll.config
+C:\Users\marvi\Desktop\Assessment\AdaptIT\App.Infrastructure\bin\Release\App.Infrastructure.dll
+C:\Users\marvi\Desktop\Assessment\AdaptIT\App.Infrastructure\bin\Release\App.Infrastructure.pdb
+C:\Users\marvi\Desktop\Assessment\AdaptIT\App.Infrastructure\bin\Release\System.Buffers.dll
+C:\Users\marvi\Desktop\Assessment\AdaptIT\App.Infrastructure\bin\Release\System.Numerics.Vectors.dll
+C:\Users\marvi\Desktop\Assessment\AdaptIT\App.Infrastructure\obj\Release\App.Infrastructure.csproj.CopyComplete
+C:\Users\marvi\Desktop\Assessment\AdaptIT\App.Infrastructure\obj\Release\App.Infrastructure.dll
+C:\Users\marvi\Desktop\Assessment\AdaptIT\App.Infrastructure\obj\Release\App.Infrastructure.pdb
